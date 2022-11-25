@@ -28,10 +28,10 @@ Projeto de icones de redes sociais animados, criado durante o curso Dev School.
     <img alt="Tela Principal" title="telaprincipal" src="https://github.com/sjtorres/icones-animados/blob/main/img/tela-01.png" width="500px" />
 </h1>
 <h1 align="center">
-    <img alt="Tela-02" title="tela-02" src="https://github.com/sjtorres/icones-animados/blob/main/img/tela-02.png" width="200px" />
+    <img alt="Tela-02" title="tela-02" src="https://github.com/sjtorres/icones-animados/blob/main/img/tela-02.png" width="500px" />
 </h1>
 <h1 align="center">
-    <img alt="Tela-02" title="tela-02" src="https://github.com/sjtorres/icones-animados/blob/main/img/tela-03.png" width="200px" />
+    <img alt="Tela-02" title="tela-02" src="https://github.com/sjtorres/icones-animados/blob/main/img/tela-03.png" width="500px" />
 </h1>
 
 [CLIQUE AQUI PARA ACESSAR O PROJETO](https://sjtorres.github.io/icones-animados/)
